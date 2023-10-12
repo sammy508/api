@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:projectapione/model/postt_model/example2_model.dart';
+import 'package:projectapione/model/getApi_model/example2_model.dart';
 import 'package:http/http.dart' as http;
 class PhotosScreen extends StatefulWidget {
   const PhotosScreen({super.key});
